@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GerenciamentoNinjasApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(GerenciamentoNinjasApplication.class, args);
 	}
 
